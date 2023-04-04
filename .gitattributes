@@ -1,0 +1,4 @@
+# GitHub linguist ignores markdown files by default, but tldr-pages
+# is mostly markdown, so we explicitly make the pages detectable
+*.md linguist-detectable=true
+*.md linguist-documentation=false
