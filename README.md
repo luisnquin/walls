@@ -2,7 +2,7 @@
 
 Repository where all my wallpapers are stored(even if I've never used them)
 
-![exhibition image](./desktop/72109603_p0.jpg)
+![exhibition image](./desktop/unsorted/78466735_p0.jpg)
 
 ## Useful init commands
 
@@ -11,4 +11,3 @@ Repository where all my wallpapers are stored(even if I've never used them)
 $ mkdir -p ~/Pictures/git/
 $ ln -s {PROJECT_PATH}/{SUBDIRECTORY}/* ~/Pictures/git/
 ```
-
