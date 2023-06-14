@@ -1,0 +1,6 @@
+autopep8==2.0.2
+pycodestyle==2.10.0
+pydantic==1.10.9
+tomli==2.0.1
+typing==3.7.4.3
+typing_extensions==4.6.3
